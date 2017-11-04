@@ -38,8 +38,8 @@ button {
 	font-size: 48px;
 }
 
-#solicita{
-	background: purple;
+#solicita, .duplica{
+	background: #051404;
 	border: 1px solid purple !important;
 	text-align: center !important;
 	margin-top: 20px;
